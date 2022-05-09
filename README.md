@@ -23,12 +23,6 @@
   ![Node.js](https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white)
   ![npm](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
   ![vscode](https://img.shields.io/badge/-grey?style=flat-square&logo=visual-studio-code)
-  
-  
-  
-  
-[![Adam's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RocketSpot&bg_color=00000000&theme=cobalt)]
-
 
 
   [![trophy](https://github-profile-trophy.vercel.app/?username=RocketSpot&theme=onedark)]
