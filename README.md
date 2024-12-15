@@ -7,8 +7,8 @@
 
 - 🔭 I’m currently working on a Discord Bot.
 - 💬 Ask me anything
-- 📫 How to reach me: [Click Me!](mailto:adamfahmed2011@gmail.com)
-- ⚡ Fun fact: I am only 10 years old!
+- 📫 How to reach me: [Click Me!](mailto:adam@readisten.com)
+- ⚡ Fun fact: I am starting high school soon!
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RocketSpot&bg_color=00000000&theme=synthwave)]
 
@@ -27,7 +27,7 @@
 
   [![trophy](https://github-profile-trophy.vercel.app/?username=RocketSpot&theme=onedark)]
 
- THANKS FOR READING MY PERSONAL README. Hope you liked it.
+ THANKS FOR READING MY README. I hope you learned more about me!
 
 <a>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=RocketSpot&theme=dark"/>
