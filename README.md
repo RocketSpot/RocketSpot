@@ -5,7 +5,7 @@
 
 [![Adams's github stats](https://github-readme-stats.vercel.app/api?username=RocketSpot&count_private=true&show_icons=true&theme=tokyonight&bg_color=00000000)]
 
-- 🔭 I’m currently working on a Discord Bot.
+- 🔭 I’m currently working with Hack Club!
 - 💬 Ask me anything
 - 📫 How to reach me: [Click Me!](mailto:adam@readisten.com)
 - ⚡ Fun fact: I am starting high school soon!
