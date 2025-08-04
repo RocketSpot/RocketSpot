@@ -1,7 +1,6 @@
 ![Adam Ahmed](422425412debbe780318e9bfee9efdac.png)
 ### Hi there 👋!
-## I am Adam Ahmed. Front-end and Node.js developer. 
-[![Instagram Link](https://img.shields.io/badge/instagram.com/adamfahmed%20-%23E4405F.svg?&style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/adamfahmed/)
+## I am Adam Ahmed. Front-end and Node.js developer.
 
 [![Adams's github stats](https://github-readme-stats.vercel.app/api?username=RocketSpot&count_private=true&show_icons=true&theme=tokyonight&bg_color=00000000)]
 
