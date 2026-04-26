@@ -117,7 +117,7 @@ That gap is where I build.
 
 - Website: https://heyadam.dev  
 - Email: adam@heyadam.dev  
-- LinkedIn: (add link)
+- LinkedIn: https://www.linkedin.com/in/adamahmednyc/
 
 ---
 
