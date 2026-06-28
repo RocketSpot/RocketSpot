@@ -16,11 +16,11 @@ New York City
 
 ## About
 
-I work on systems that connect human cognition with intelligent software.
+I work on systems that connect human cognition with intelligent software to enhance performance.
 
-My focus is on building tools that interpret brain activity and translate it into usable signals for real-world performance. This sits at the intersection of machine learning, signal processing, and product design.
+My current focus is on building tools that interpret brain activity and translate it into usable signals for real-world performance. This sits at the intersection of machine learning, signal processing, and product design.
 
-Currently, I am working as an AI Engineer at **Z•NE**, developing neuroadaptive systems that use in-ear EEG data to understand and improve how people work.
+I am doing this as an AI Engineer at **Z•NE**, developing neuroadaptive systems that use in-ear EEG data to understand and improve how people work.
 
 ---
 
@@ -32,7 +32,8 @@ Currently, I am working as an AI Engineer at **Z•NE**, developing neuroadaptiv
 - Processing in-ear EEG signals into usable cognitive metrics  
 - Modeling focus, cognitive load, and mental energy in real time  
 - Building adaptive systems that respond to user state  
-- Bridging hardware, ML pipelines, and application layers  
+- Bridging hardware, ML pipelines, and application layers
+- Developing website [Will Update Later]
 
 ---
 
@@ -40,23 +41,27 @@ Currently, I am working as an AI Engineer at **Z•NE**, developing neuroadaptiv
 
 **PASSIO Lab — NC A&T**  
 Research & Web Development Assistant  
-- Supported biomedical research initiatives  
-- Built web tools for data visualization  
+- Supported biomedical research  
+- Developing website [Will Update Later]
 
 **Readisten**  
 VP of Innovation & Systems Consultant  
-- Led system architecture and product direction  
-- Built applications focused on accessibility and learning  
-- Coordinated cross-functional development teams  
+- Led system architecture and product development  
+- Built Flutter-based applications focused on accessibility and learning  
+- Coordinated cross-functional app development teams
+- Authored patent US 63/366,613
+- Taught 10+ first-gen students to code
+- Converted 50+ research papers to summarized, audio-accessible formats
 
 **New York Association of Biomedical Innovations**  
 IT Specialist  
-- Maintained infrastructure supporting research initiatives  
+- Maintained infrastructure supporting research initiatives
+- Developed website [Will Update/Add Later]
 
 **Project HEAR**  
 Web Developer  
 - Developed platforms for health education in underserved communities  
-- Focused on usability and accessibility  
+- Focused on usability and accessibility 
 
 **NYIT TEAM Lab Bioengineering**  
 Researcher & Web Developer  
@@ -69,8 +74,9 @@ Web Developer
 
 **International Socioeconomics Lab**  
 Policy & Research Intern  
+- Compiled 200+ lawmaker profiles
+- Supported healthcare legislative outreach across 5 client projects in public health
 - Conducted research in political communication  
-- Assisted in client and government-facing work  
 
 ---
 
